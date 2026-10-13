@@ -1,0 +1,20 @@
+Swinject.xcodeproj/project.pbxproj
+  h_0f19d15cb4e1cd 1131,1358
+Package.swift
+  h_0f19d15cb4e1cd 1,9
+Swinject.podspec
+  h_0f19d15cb4e1cd 15
+project.yml
+  h_0f19d15cb4e1cd 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "a1848caa820db66dd12ef6df869da197c40de284",
+  "prompts": {},
+  "humans": {
+    "h_0f19d15cb4e1cd": {
+      "author": "Sergii Sukhanov <sergii.sukhanov@deliveryhero.com>"
+    }
+  }
+}
