@@ -7,7 +7,7 @@ options:
   deploymentTarget:
     macOS: '10.10'
     tvOS: '9.0'
-    iOS: '9.0'
+    iOS: '15.0'
     watchOS: '2.0'
 fileGroups:
   - Playgrounds/Sample-iOS.playground

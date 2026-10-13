@@ -1,4 +1,4 @@
-// swift-tools-version:5.0
+// swift-tools-version:5.9
 
 import PackageDescription
 
@@ -6,7 +6,7 @@ let package = Package(
     name: "Swinject",
     platforms: [
         .macOS(.v10_10),
-        .iOS(.v9),
+        .iOS(.v15),
         .tvOS(.v9),
         .watchOS(.v2)
     ],
